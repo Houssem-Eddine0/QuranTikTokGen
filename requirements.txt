@@ -1,0 +1,7 @@
+streamlit
+moviepy
+requests
+python-dotenv
+arabic-reshaper
+python-bidi
+google-generativeai

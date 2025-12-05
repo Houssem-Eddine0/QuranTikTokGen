@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnement virtuel
+venv/
+.env
+
+# Fichiers Vidéos et Temporaires (Trop lourds pour Github)
+*.mp4
+*.mp3
+output/*
+!output/.gitkeep
+temp/
+
+# IDE
+.vscode/
+.idea/
